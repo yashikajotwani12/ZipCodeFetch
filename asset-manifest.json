@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ZipCodeFetch/static/css/main.f6cc5291.css",
+    "main.js": "/ZipCodeFetch/static/js/main.bd383634.js",
+    "static/js/787.cda612ba.chunk.js": "/ZipCodeFetch/static/js/787.cda612ba.chunk.js",
+    "index.html": "/ZipCodeFetch/index.html",
+    "main.f6cc5291.css.map": "/ZipCodeFetch/static/css/main.f6cc5291.css.map",
+    "main.bd383634.js.map": "/ZipCodeFetch/static/js/main.bd383634.js.map",
+    "787.cda612ba.chunk.js.map": "/ZipCodeFetch/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6cc5291.css",
+    "static/js/main.bd383634.js"
+  ]
+}
